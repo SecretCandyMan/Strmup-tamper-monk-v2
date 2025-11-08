@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      4.0
 // @description  Extract HLS URLs with actual file size detection and compression options
-// @author       You
+// @author       SecretCandyMan
 // @match        https://strmup.cc/*
 // @match        https://*.strmup.cc/*
 // @grant        GM_setClipboard
