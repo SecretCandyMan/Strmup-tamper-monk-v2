@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      2.0
 // @description  Extract HLS and M3U8 URLs from strmup.cc
-// @author       You
+// @author       SecretCandyMan
 // @match        https://strmup.cc/*
 // @match        https://*.strmup.cc/*
 // @grant        GM_setClipboard
